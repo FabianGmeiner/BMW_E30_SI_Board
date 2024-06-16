@@ -1,0 +1,138 @@
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-B_Cu.gbl' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D144
+D11   --> D145
+D12   --> D146
+D13   --> D147
+D14   --> D148
+D15   --> D149
+D16   --> D150
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-B_Mask.gbs' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D151
+D11   --> D152
+D12   --> D153
+D13   --> D154
+D14   --> D155
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-Edge_Cuts.gm1' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D156
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-F_Cu.gtl' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D157
+D11   --> D158
+D12   --> D159
+D13   --> D160
+D14   --> D161
+D15   --> D162
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-F_Mask.gts' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D163
+D11   --> D164
+D12   --> D165
+D13   --> D166
+D14   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-F_Silkscreen.gto' ----   Tue Jun  4 21:34:22 2024
+
+D11   --> D168
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-NPTH.drl' ----   Tue Jun  4 21:34:22 2024
+
+T1   --> T6
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-NPTH-drl_map.gbr' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D169
+D11   --> D170
+D12   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-PTH.drl' ----   Tue Jun  4 21:34:22 2024
+
+T1   --> T7
+T2   --> T8
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-PTH-drl_map.gbr' ----   Tue Jun  4 21:34:22 2024
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-B_Mask.gbs' ----   Tue Jun  4 21:35:04 2024
+
+D14   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-Edge_Cuts.gm1' ----   Tue Jun  4 21:35:04 2024
+
+D10   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-F_Cu.gtl' ----   Tue Jun  4 21:35:04 2024
+
+D14   --> D102
+D15   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-F_Mask.gts' ----   Tue Jun  4 21:35:04 2024
+
+D14   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-F_Silkscreen.gto' ----   Tue Jun  4 21:35:04 2024
+
+D11   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-NPTH-drl_map.gbr' ----   Tue Jun  4 21:35:04 2024
+
+D10   --> D106
+D11   --> D107
+D12   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-PTH.drl' ----   Tue Jun  4 21:35:04 2024
+
+T1   --> T2
+T2   --> T3
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\fabia\OneDrive\Documents\KiCad Projects\BMW E30 VFL SI Indicator\plots\BMW E30 VFL SI Indicator-PTH-drl_map.gbr' ----   Tue Jun  4 21:35:04 2024
+
+D10   --> D109
+D11   --> D110
+D12   --> D111
+-----------------------------------------------------------------
