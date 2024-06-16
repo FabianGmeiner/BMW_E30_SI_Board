@@ -14,13 +14,15 @@ Warm regards from Germany!
 
 As of now, an initial batch of boards is on the way from JLCPCB to me for assembly and testing. The design is still **untested!**
 
-I got all the necessary components from either Mouser or Reichelt (german vendor), but everything is available at mouser. The [BOM](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/BOM_SI_Board_Reman.xlsx "BOM_SI_Board_Reman.xlsx") contains all the part descriptions as well as relevant part numbers and the component identification and placement on the second sheet.
+I got all the necessary components from either Mouser or Reichelt (german vendor), but everything is available at Mouser. The [BOM](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/BOM_SI_Board_Reman.xlsx "BOM_SI_Board_Reman.xlsx") contains all the part descriptions as well as relevant part numbers and the component identification and placement on the second sheet.
 
 ## Schematics
 
-Current versions for the main SI board and the LED indicator board are V2 and can be found as .pdf ([2024_06_15_SI_Board_Schematic_V2.pdf](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/2024_06_15_SI_Board_Schematic_V2.pdf "2024_06_15_SI_Board_Schematic_V2.pdf"), [2024_06_15_Indicator_Schematic_V2.pdf](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/2024_06_15_Indicator_Schematic_V2.pdf "2024_06_15_Indicator_Schematic_V2.pdf")) or in the respective KiCad projects
+Current versions for the main SI board and the LED indicator board are V2 and can be found as .pdf ([2024_06_15_SI_Board_Schematic_V2.pdf](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/2024_06_15_SI_Board_Schematic_V2.pdf "2024_06_15_SI_Board_Schematic_V2.pdf"), [2024_06_15_Indicator_Schematic_V2.pdf](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/2024_06_15_Indicator_Schematic_V2.pdf "2024_06_15_Indicator_Schematic_V2.pdf")) or in the respective KiCad projects.
+
+The schematics also include the pin assignments and routing of the whole instrument cluster (albeit in german), and should also come in as a handy reference for throubelshooting or repairing an original SI board, e.g. with corroded traces.
 
 ## Manufacturing files
 
-Exported Gerbers for getting the boards manufactured are located in the respective KiCad project folders
+Exported Gerbers for getting the boards manufactured are located in the respective KiCad project folders for a variety of different board houses. I ordered mine through JLCPCB. 
 
