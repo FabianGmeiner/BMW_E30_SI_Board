@@ -1534,7 +1534,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43a58189-1e43-4520-8cae-2f63cea7fa83")
-		(property "Reference" "R48"
+		(property "Reference" "R46"
 			(at 185.42 87.63 90)
 			(effects
 				(font
@@ -1586,7 +1586,7 @@
 		(instances
 			(project "BMW E30 VFL SI Board V2"
 				(path "/b9f8b657-f23f-4f46-b33b-c9c07ea00dca/06cb897c-0efb-438a-95e3-30e073586624"
-					(reference "R48")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -1601,7 +1601,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67e15556-a7f8-433a-88f1-0e2ab3e30df3")
-		(property "Reference" "R46"
+		(property "Reference" "R48"
 			(at 106.68 118.364 90)
 			(effects
 				(font
@@ -1653,7 +1653,7 @@
 		(instances
 			(project "BMW E30 VFL SI Board V2"
 				(path "/b9f8b657-f23f-4f46-b33b-c9c07ea00dca/06cb897c-0efb-438a-95e3-30e073586624"
-					(reference "R46")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -1669,7 +1669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72d2ff4d-9cab-4bc9-ab9a-27a3298a982a")
-		(property "Reference" "R47"
+		(property "Reference" "R44"
 			(at 127 69.85 90)
 			(effects
 				(font
@@ -1721,7 +1721,7 @@
 		(instances
 			(project "BMW E30 VFL SI Board V2"
 				(path "/b9f8b657-f23f-4f46-b33b-c9c07ea00dca/06cb897c-0efb-438a-95e3-30e073586624"
-					(reference "R47")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -1803,7 +1803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a52050b-286a-48eb-a004-ea1d9df032b0")
-		(property "Reference" "R44"
+		(property "Reference" "R45"
 			(at 110.49 81.2799 0)
 			(effects
 				(font
@@ -1857,7 +1857,7 @@
 		(instances
 			(project "BMW E30 VFL SI Board V2"
 				(path "/b9f8b657-f23f-4f46-b33b-c9c07ea00dca/06cb897c-0efb-438a-95e3-30e073586624"
-					(reference "R44")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -1942,7 +1942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "988217eb-726c-457f-8175-3cba9eec3940")
-		(property "Reference" "R45"
+		(property "Reference" "R47"
 			(at 106.68 109.474 90)
 			(effects
 				(font
@@ -1994,7 +1994,7 @@
 		(instances
 			(project "BMW E30 VFL SI Board V2"
 				(path "/b9f8b657-f23f-4f46-b33b-c9c07ea00dca/06cb897c-0efb-438a-95e3-30e073586624"
-					(reference "R45")
+					(reference "R47")
 					(unit 1)
 				)
 			)
