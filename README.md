@@ -16,9 +16,16 @@ As of now, an initial batch of boards is on the way from JLCPCB to me for assemb
 
 I got all the necessary components from either Mouser or Reichelt (german vendor), but everything is available at Mouser. The [BOM](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/BOM_SI_Board_Reman.xlsx "BOM_SI_Board_Reman.xlsx") contains all the part descriptions as well as relevant part numbers and the component identification and placement on the second sheet.
 
+The facelift indicator boards (7 LEDs, 3 Bulbs) is based on photographs only, as such I could not yet verify the dimensions apart from measurements from images. 
+If anybody has one of those boards laying around and could provide peasurements that would be highly appreciated.
+
 ## Schematics
 
 Current versions for the main SI board and the LED indicator board are V2 and can be found as .pdf ([2024_06_15_SI_Board_Schematic_V2.pdf](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/2024_06_15_SI_Board_Schematic_V2.pdf "2024_06_15_SI_Board_Schematic_V2.pdf"), [2024_06_15_Indicator_Schematic_V2.pdf](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/2024_06_15_Indicator_Schematic_V2.pdf "2024_06_15_Indicator_Schematic_V2.pdf")) or in the respective KiCad projects.
+
+I also added an LED-only-version of the indicator board, replacing the bulbs with white 5mm LEDs and adding current limiting resistors. The resistors will have to be adapted to the LEDs you are using. 
+The same goes for a facelift version of the indicator board, with 7 LEDs (one red) and three bulbs.
+
 
 The schematics also include the pin assignments and routing of the whole instrument cluster (albeit in german), and should also come in as a handy reference for throubelshooting or repairing an original SI board, e.g. with corroded traces.
 
