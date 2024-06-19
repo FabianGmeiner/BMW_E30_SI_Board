@@ -26,3 +26,7 @@ The schematics also include the pin assignments and routing of the whole instrum
 
 Exported Gerbers for getting the boards manufactured are located in the respective KiCad project folders for a variety of different board houses. I ordered mine through JLCPCB. 
 
+## Licensing 
+LICENSE NOTE: The root license applies to all subfolders NOT containing their own LICENSE file. If a subfolder contains a different LICENSE file this different license applies to all subfolders below this LICENSE file.
+
+If you want to sell any hardware of this project yourself i would kindly ask you to get in contact with me.
