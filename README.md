@@ -29,4 +29,5 @@ Exported Gerbers for getting the boards manufactured are located in the respecti
 ## Licensing 
 LICENSE NOTE: The root license applies to all subfolders NOT containing their own LICENSE file. If a subfolder contains a different LICENSE file this different license applies to all subfolders below this LICENSE file.
 
+I encourage everyone to get the boards manufactured yourself as the components are cheaply available and its a cool project to keep our old cars running nicely.
 If you want to sell any hardware of this project yourself i would kindly ask you to get in contact with me.
