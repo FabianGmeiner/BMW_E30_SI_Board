@@ -22,7 +22,7 @@ If anybody has one of those boards laying around and could provide peasurements 
 ### Testing status
 
 #### Main SI board
-2024/06/24 assembly started.
+2024/06/24 first board assembled ready for testing.
 
 #### Indicator board
 2024/06/24 first board assembled. Electrical test ok. Mechanical fitment is off, the connector header needs to be moved up 2.5mm for the board to sit flush with the main PCB. 
