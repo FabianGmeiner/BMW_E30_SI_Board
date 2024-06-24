@@ -12,12 +12,20 @@ Warm regards from Germany!
 
 ## Current Status
 
-As of now, an initial batch of boards is on the way from JLCPCB to me for assembly and testing. The design is still **untested!**
+2024/06/24 I received the initial batch of PCBs for testing. This includes the main SI boards as well as the pre-facelift LED board (9 LEDs).
 
 I got all the necessary components from either Mouser or Reichelt (german vendor), but everything is available at Mouser. The [BOM](https://github.com/FabianGmeiner/BMW_E30_SI_Board/blob/main/BOM_SI_Board_Reman.xlsx "BOM_SI_Board_Reman.xlsx") contains all the part descriptions as well as relevant part numbers and the component identification and placement on the second sheet.
 
 The facelift indicator boards (7 LEDs, 3 Bulbs) is based on photographs only, as such I could not yet verify the dimensions apart from measurements from images. 
 If anybody has one of those boards laying around and could provide peasurements that would be highly appreciated.
+
+### Testing status
+
+#### Main SI board
+2024/06/24 assembly started.
+
+#### Indicator board
+2024/06/24 first board assembled. Electrical test ok. Mechanical fitment is off, the connector header needs to be moved up 2.5mm for the board to sit flush with the main PCB. 
 
 ## Schematics
 
