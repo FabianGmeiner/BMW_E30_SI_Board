@@ -26,6 +26,7 @@ If anybody has one of those boards laying around and could provide peasurements 
 
 #### Indicator board
 2024/06/24 first board assembled. Electrical test ok. Mechanical fitment is off, the connector header needs to be moved up 2.5mm for the board to sit flush with the main PCB. 
+2024/06/27 PCBs are corrected and updated files uploaded. Ordered a new batch of pre-facelift and facelift boards for testing
 
 ## Schematics
 
