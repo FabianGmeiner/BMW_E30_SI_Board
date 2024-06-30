@@ -23,6 +23,20 @@ If anybody has one of those boards laying around and could provide peasurements 
 
 #### Main SI board
 2024/06/24 first board assembled ready for testing.
+2024/06/30 first functional tests successful. All functions operate as they should, and current consumption is in a nominal range. I am currently building a little pulse generator to test the speed and rpm inputs and test if the oil service lights count down as expected. This will be combined with a long test with the board powered up to check the current consumption and temperatures over longer time. 
+
+| **Test Description**                 | **Current Draw Board** | **Battery Current** | **Further Comments**                                    |
+|--------------------------------------|------------------------|---------------------|---------------------------------------------------------|
+| Initial Connection, T30 off, T15 off |                        | 9.2 µA              | Battery current measured between BAT_EN jumper          |
+| T30 on, T15 off                      | 3.6 mA                 | 5.7 µA              | All lights stay off, battery current reduces.           |
+| T30 on, T15 on                       | 145.9 mA               | 5.7 µA              | 5 green LEDs turn on, Inspection light turns on         |
+| Activating T50 (starter signal)      |                        |                     | Relay clicks, pad indicator lights up                   |
+| Releasing T50 (starter signal)       |                        |                     | Relay clicks, pad indicator turns off, LEDs turn off    |
+| Reset Button Pressed                 | 30.4 mA                |                     | INSP light goes out after ~10s, all lights off          |
+| T30 on, T15 off                      | 3.6 mA                 |                     | turning ignition off after reset                        |
+| T30 on, T15 on                       | 89.4 mA                |                     | ignition back on, 5 green LEDs on, INSP light stays off |
+| Activating and releasing T50         | 30.5 mA                |                     | Relay cycles, LEDs turn off. All lights off.            |
+| T30 off, T15 off                     |                        | 9.2 µA              |                                                         |
 
 #### Indicator board
 2024/06/24 first board assembled. Electrical test ok. Mechanical fitment is off, the connector header needs to be moved up 2.5mm for the board to sit flush with the main PCB. 
