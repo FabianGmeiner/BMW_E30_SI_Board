@@ -37,6 +37,10 @@ If anybody has one of those boards laying around and could provide peasurements 
 | T30 on, T15 on                       | 89.4 mA                |                     | ignition back on, 5 green LEDs on, INSP light stays off |
 | Activating and releasing T50         | 30.5 mA                |                     | Relay cycles, LEDs turn off. All lights off.            |
 | T30 off, T15 off                     |                        | 9.2 µA              |                                                         |
+| Battery charging current             |                        | 22.8 mA             | Battery charging with T15 on                            |
+| Battery charging cutoff voltage      |                        |                     | Board stops charging at a cell voltage of 1,35 V        |
+
+The overall functionality, the current consumption as well as the charging current and voltage for the NiMh cells is within the expected range. 
 
 #### Indicator board
 2024/06/24 first board assembled. Electrical test ok. Mechanical fitment is off, the connector header needs to be moved up 2.5mm for the board to sit flush with the main PCB. 
