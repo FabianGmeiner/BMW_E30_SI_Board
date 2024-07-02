@@ -38,7 +38,7 @@ If anybody has one of those boards laying around and could provide peasurements 
 | Activating and releasing T50         | 30.5 mA                |                     | Relay cycles, LEDs turn off. All lights off.            |
 | T30 off, T15 off                     |                        | 9.2 µA              |                                                         |
 | Battery charging current             |                        | 22.8 mA             | Battery charging with T15 on                            |
-| Battery charging cutoff voltage      |                        |                     | Board stops charging at a cell voltage of 1,35 V        |
+| Battery charging cutoff voltage      |                        |                     | Board stops charging at a cell voltage of 1.35 V        |
 
 The overall functionality, the current consumption as well as the charging current and voltage for the NiMh cells is within the expected range. 
 
