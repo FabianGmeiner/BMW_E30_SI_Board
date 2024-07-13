@@ -1803,6 +1803,16 @@
 		)
 		(uuid "fb480fc6-c143-49c1-aba2-1e71259ed3dc")
 	)
+	(text "LEDS are spaced 51.5mm edge to edge, should be 50.9mm\n5.925mm spacing instead of 6.000mm spacing"
+		(exclude_from_sim no)
+		(at 225.552 150.368 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "173f1cc8-8045-41ae-9b28-58ab98415fc3")
+	)
 	(text "LED-Version to replace incandescent bulbs. If used with bulbs, \nreplace R1 and R2 with wire bridges or 0Ohm Resistors"
 		(exclude_from_sim no)
 		(at 180.848 173.736 0)
@@ -1831,7 +1841,7 @@
 				)
 			)
 		)
-		(property "Value" "160R"
+		(property "Value" "510R"
 			(at 102.362 69.596 90)
 			(effects
 				(font
@@ -2826,7 +2836,7 @@
 				)
 			)
 		)
-		(property "Value" "160R"
+		(property "Value" "510R"
 			(at 102.362 62.992 90)
 			(effects
 				(font
