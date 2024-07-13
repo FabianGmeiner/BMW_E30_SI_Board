@@ -1537,7 +1537,7 @@
 				)
 			)
 		)
-		(property "Value" "160R"
+		(property "Value" "510R"
 			(at 102.362 68.326 90)
 			(effects
 				(font
@@ -1746,7 +1746,7 @@
 				)
 			)
 		)
-		(property "Value" "160R"
+		(property "Value" "510R"
 			(at 102.362 73.406 90)
 			(effects
 				(font
@@ -2477,7 +2477,7 @@
 				)
 			)
 		)
-		(property "Value" "160R"
+		(property "Value" "510R"
 			(at 102.362 62.992 90)
 			(effects
 				(font
