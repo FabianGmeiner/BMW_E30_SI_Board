@@ -44,7 +44,8 @@ The overall functionality, the current consumption as well as the charging curre
 
 #### Indicator board
 **2024/06/24** first board assembled. Electrical test ok. Mechanical fitment is off, the connector header needs to be moved up 2.5mm for the board to sit flush with the main PCB.   
-**2024/06/27** PCBs are corrected and updated files uploaded. Ordered a new batch of pre-facelift and facelift boards for testing
+**2024/06/27** PCBs are corrected and updated files uploaded. Ordered a new batch of pre-facelift and facelift boards for testing 
+**2024/08/22** noticed during assembly that mounding hole of pre-facelift boards is too small. Needs to be enlarged by 0.5mm -> will be corrected in PCB files
 
 ## Schematics
 
