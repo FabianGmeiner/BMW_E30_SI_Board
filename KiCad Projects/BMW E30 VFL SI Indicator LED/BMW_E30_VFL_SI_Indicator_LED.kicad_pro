@@ -485,7 +485,7 @@
       "plot": "plots/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "BMW_E30_VFL_SI_Indicator_LED.step",
       "svg": "",
       "vrml": ""
     },
